@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+	<touch>
+		<ease>0.9</ease>
+	</touch>
+	<silhouette>
+		<skip>4</skip>
+		<minAreaSeed>0.05</minAreaSeed>
+	</silhouette>
+	<person>
+		<ease>0.1</ease>
+	</person>
+</group>
